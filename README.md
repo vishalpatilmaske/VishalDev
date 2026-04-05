@@ -65,9 +65,6 @@
 - Low-latency speech pipeline
 - Scalable backend system
 
-### 📱 Reparv Partner App
-- Event & partner management platform
-- Real-time updates and notifications
 
 ---
 
