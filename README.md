@@ -1,40 +1,80 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">Full Stack MERN Developer | Problem Solver 🚀</h3>
+<h1 align="center">Hi 👋, I'm Vishal Maske</h1>
+<h3 align="center">Full Stack Developer | MERN | Mobile App Developer 🚀</h3>
+
+<p align="center">
+  <a href="https://vishalmaske.in" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/vishalmaske-/" target="_blank">💼 LinkedIn</a> •
+  📧 vishalpatilmaske@gmail.com • 📱 +91 9322396236
+</p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Developer (MERN Stack)
-- 🔭 Currently working on scalable web apps
-- 🌱 Learning System Design & Cloud (AWS)
-- 🧠 Passionate about building real-world solutions
-- ⚡ Fun fact: I debug faster with coffee ☕
+
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- 📱 Mobile App Developer (**React Native + iOS**)  
+- 🌍 Building scalable **Web & Mobile Applications**
+- 🤖 Working on **AI Voice Calling Systems**
+- 📡 Developing **Crop Monitoring (Satellite + GIS Systems)**
+- 🌱 Learning **System Design, Cloud & DevOps**
+- ⚡ Focused on **performance, scalability, and clean architecture**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech & Skills
 
-### Frontend
-- React.js, Next.js
-- Tailwind CSS, Bootstrap
+### 🚀 Development
+- Web Development (Full Stack)
+- Mobile Application Development
+- MERN Stack (MongoDB, Express, React, Node.js)
+- React Native (Cross-platform Apps)
+- iOS Development (Basics)
 
-### Backend
+### ⚙️ Backend & APIs
 - Node.js, Express.js
+- REST API Design
+- Authentication & Authorization
 
-### Database
-- MongoDB, Firebase
+### 🗄️ Database
+- MongoDB
+- Firebase
 
-### Tools & Platforms
-- Git, GitHub
-- Docker (Basics)
+### ☁️ Deployment & DevOps
+- Application Deployment
 - AWS (Learning)
+- Docker (Basics)
+- CI/CD (Basic understanding)
+
+### 🧠 Professional Skills
+- Leadership
+- Team Handling
+- Problem Solving
+- System Thinking
+
+---
+
+## 🔥 Featured Projects
+
+### 🌍 Crop Monitoring System
+- Satellite-based crop intelligence system
+- NDVI, drought analysis, GIS visualization
+- Real-time advisory system
+
+### 📞 AI Voice Calling Agent
+- Automated voice-based customer interaction
+- Low-latency speech pipeline
+- Scalable backend system
+
+### 📱 Reparv Partner App
+- Event & partner management platform
+- Real-time updates and notifications
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalpatilmaske&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -42,26 +82,28 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=vishalpatilmaske&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📈 Activity Graph
 
-- LinkedIn: [Your Link]
-- Portfolio: [Your Website]
-
----
-
-## 📌 Projects
-
-- 🚀 Crop Monitoring System (Satellite + GIS)
-- 📞 AI Voice Calling Agent
-- 📱 Reparv Partner App
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalpatilmaske&theme=tokyo-night" />
+</p>
 
 ---
 
-## 👀 Profile Views
+## 🌐 Connect With Me
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+- 🌐 Portfolio: https://vishalmaske.in  
+- 💼 LinkedIn: https://www.linkedin.com/in/vishalmaske-/  
+- 📧 Email: vishalpatilmaske@gmail.com  
+- 📱 Phone: +91 9322396236  
+
+---
+
+## ⚡ Fun Fact
+
+> I build scalable systems and lead teams while debugging faster with coffee ☕
